@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/newmap">/home/prafful/newmap/build-newmap-Desktop_Qt_6_5_1_GCC_64bit-Debug/newmap</file>
+
+  </qresource>
+</RCC>

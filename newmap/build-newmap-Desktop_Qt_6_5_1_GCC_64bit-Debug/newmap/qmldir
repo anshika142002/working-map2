@@ -1,0 +1,4 @@
+module newmap
+typeinfo appnewmap.qmltypes
+prefer :/newmap/
+

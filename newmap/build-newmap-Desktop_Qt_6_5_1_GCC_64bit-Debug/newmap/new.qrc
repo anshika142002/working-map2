@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>leafletjs/leaflet.js</file>
+        <file>mapbuild1.html</file>
+        <file>index.js</file>
+        <file>components.qml</file>
+        <file>leafletjs/leaflet.css</file>
+    </qresource>
+</RCC>

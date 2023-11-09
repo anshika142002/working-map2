@@ -1,0 +1,8 @@
+<!DOCTYPE RCC>
+<RCC version="1.0"/>
+<RCC>
+    <qresource prefix="/html">
+        <file>mapbuild.html</file>
+    </qresource>
+</RCC>
+
